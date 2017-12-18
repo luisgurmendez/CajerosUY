@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_7e307d29cde52161d5aa45ddf87216636eba5b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_458ad3dc7fa8a37041e778d7e34a68a317d4c715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_86663bfa5f67fdd84268e6e4b5a21f4f12f1a506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_b306f4d9d2989607e5e241d379258500371422b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_9194f854dec6ba85ac77f631a36618f948185243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_ab32f257014b491c643f5402cfc918314252fec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.50.3_5bc6a771b12c14297729af8f84e9dac7202a8177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_de93ad624101c379f754a2d3bfca8b64d281c8b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_6a966552e3bd60909e5123cf370b33d58eb112d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_143aeeeaecaec0b0efabcc384db424378114c526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_b6cb3743b77469da4ce2d3b129656ecb44590361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_0f894391376f27aef055a650fc32676df1a1b646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\CajerosUY\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ea7bb8c8cf472e0eefb6c7b4b0462d2a1f6a2ce">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\CajerosUY-react-native-maps-unspecified_f9f488961f66c3b5062653119d94bcec836955a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_6d78bd3f9f0834e0ad390ec20df8bf05f3f3bc4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_aa96b54365f996cfc882526ba54c2e60d6f738e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_b7f3c4c420606e6b0673b4fc8e32ee2774163da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9d8b18ad66d51ed367818caac09ed56120084735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_02b321eb7f943b7b2125ea7ed8827939e961de88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_63f28d6bbf88360919a88af9b2957220ca89b934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_477e70baa66cb1d923fdead74ebd151abeeeb72c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_8ea451910b7420853da2a8d80ce05a1a47f473f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_a0a979ca848dd13d87e49b20bc6c9d11410710ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_ceaf5c47dd1275bac20d88b6c7e0791779a8f02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_eb38f2e7c1b12f20f1e743799d310a40e9859d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_90950e47a4306f1ba4991496a926f8a875b1f602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_881b91eafa450e127c08c0686208d517686079eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\exploded-aar\CajerosUY\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="C:\Users\Qosmio\Documents\misApps\ReactNative\CajerosUY\android\app\build\intermediates\pre-dexed\debug\CajerosUY-react-native-vector-icons-unspecified_153b92e2f3198f0d32469adc207b27620a7281fc.jar" />
+    </item>
+
+</items>
