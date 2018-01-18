@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Qosmio\\Documents\\misApps\\ReactNative\\CajerosUY\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Qosmio\\Documents\\misApps\\ReactNative\\CajerosUY\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "/Users/luisandresgurmendez/Desktop/Projects/Cajeros/CajerosUY/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/luisandresgurmendez/Desktop/Projects/Cajeros/CajerosUY/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisandresgurmendez/Desktop/Projects/Cajeros/CajerosUY/android/C:\\Users\\Qosmio\\Documents\\misApps\\ReactNative\\CajerosUY\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "/Users/luisandresgurmendez/Desktop/Projects/Cajeros/CajerosUY/android/C:\\Users\\Qosmio\\Documents\\misApps\\ReactNative\\CajerosUY\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

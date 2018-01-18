@@ -29,7 +29,7 @@
         android:theme="@style/AppTheme" >
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBgFIf4kT64kKN9FnH6ddeBEeWOvpBTLmQ" />
+            android:value="AIzaSyDU3phS-f7ZPvsLyeSdoAOepQp9znUi3lQ" />
 
         <activity
             android:name="com.cajerosuy.MainActivity"
